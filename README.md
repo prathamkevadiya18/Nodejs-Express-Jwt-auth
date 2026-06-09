@@ -53,7 +53,7 @@ user/
 
 1.  **Clone or Navigate to the Directory:**
     ```bash
-    cd "d:/all my/work-nodejs/node/user"
+   "your any folder"
     ```
 
 2.  **Install Dependencies:**
